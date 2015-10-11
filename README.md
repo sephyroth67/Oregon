@@ -33,12 +33,12 @@ Install wiringPi
  - git pull origin
  - ./build
 
-Install OregonPi
+Install Oregon
 ----------------
 
  - cd ..
  - git clone git://github.com/sephyroth67/Oregon
- - cd rcswitch
+ - cd Oregon
  
 
 Execute
