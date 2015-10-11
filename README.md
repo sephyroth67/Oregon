@@ -44,12 +44,15 @@ Install OregonPi
 Execute
 -------
 
-sudo ./test
-or 
-sudo ./oregon test.txt
-to log received messages
+ - sudo ./test
 
-Data Support
+ - or 
+
+ - sudo ./oregon test.txt
+
+ - to log received messages
+
+ Data Support
 ------------
 
 Sensor(char * _strval); // construct and decode value
